@@ -15,3 +15,7 @@ h2 {
 .contact {
   font-style: italic;
 }
+.contacts {
+  width: 500px;
+  float: right;
+}
