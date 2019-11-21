@@ -6,8 +6,9 @@ body {
   float: left;
 }
 h1 {
-  color: blue;
+  color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
 }
 h2 {
   color: red;
@@ -19,7 +20,7 @@ h2 {
   border: 6px solid red;
   padding: 10px;
   margin: 50px;
-  background-color: yellow;
+  background-color: steelblue;
 }
 .activities {
   font-style: italic;
@@ -31,4 +32,10 @@ h2 {
   border: 6px;
   padding: 10px;
   margin: 50px;
+}
+@media screen and (min-width: 480px) {
+  body {
+      background-color: black;
+      color: white;
+  }
 }
