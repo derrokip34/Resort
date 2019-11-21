@@ -1,0 +1,17 @@
+body {
+  background-color: gray;
+}
+.column {
+  width: 500px;
+  float: right;
+}
+h1 {
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+  color: red;
+}
+.contact {
+  font-style: italic;
+}
