@@ -19,3 +19,8 @@ h2 {
   width: 500px;
   float: right;
 }
+.test-box {
+  border: 6px solid red;
+  padding: 10px;
+  margin: 20px;
+}
